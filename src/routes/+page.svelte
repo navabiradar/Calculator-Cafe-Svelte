@@ -120,8 +120,9 @@
         <div class="row row-cards">
             <div class="col-md-3 col-lg-4">
                 <div class="card">
+                    
                     <div class="card-body">
-                      <h2 class="card-title text-uppercase">&nbsp;Finance Calculators</h2>
+                      
                       
                       
                       {#each urlsLists['finance'] as urls }
