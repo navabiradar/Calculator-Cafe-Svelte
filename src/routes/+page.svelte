@@ -11,7 +11,7 @@
         
             <div class="col-md-3 col-lg-3">
 
-                <div class="card border-0   bg-azure-lt rounded-0">
+                <div class="card border-primary  bg-azure-lt rounded-0">
                     <div class="card-header   bg-blue rounded-0">
                         <input class="form-control rounded-0 w-100 p-2 h-100 border-0 shadow-none bg-blue-lt" type="number" readonly name="" id="">
                     </div>
@@ -119,8 +119,10 @@
     <div class="container-xl pt-2">
         <div class="row row-cards">
             <div class="col-md-3 col-lg-4">
-                <div class="card">
-                    
+                <div class="card rounded-0 border-primary ">
+                    <div class="card-body bg-blue rounded-0">
+                        <h2 class="text-center  text-white">Finance Calculator</h2>
+                    </div>
                     <div class="card-body">
                       
                       
@@ -170,9 +172,12 @@
             </div>
            
             <div class="col-md-3 col-lg-4">
-                <div class="card">
+                <div class="card rounded-0 border-primary">
+                    <div class="card-body bg-blue rounded-0">
+                        <h2 class="text-center  text-white">Health Calculator</h2>
+                    </div>
                     <div class="card-body">
-                      <h2 class="card-title text-uppercase">&nbsp;Health</h2>
+                      
                       
                       
                       {#each urlsLists['health'] as urls }
