@@ -10,12 +10,12 @@ export const urlsLists =
         {
             name: "Compound Interest Calculator",
             url: "/finance/compound-interest-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Daily Compound Calculator",
             url: "/finance/daily-compound-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Recurring Deposit Calculator",
@@ -25,12 +25,12 @@ export const urlsLists =
         {
             name: "Investment Calculator",
             url: "/finance/investment-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Future Value Calculator",
             url: "/finance/future-value-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Compound Annual Growth Rate (CAGR) Calculator",
@@ -113,42 +113,42 @@ export const urlsLists =
         {
             name: "Body Mass Index(BMI) Calculator",
             url: "/health/bmi-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Body Fat Calculator",
             url: "/health/body-fat-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Ideal Weight Calculator",
             url: "/health/ideal-weight-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "PACE Calculator",
             url: "/health/pace-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Army Body Fat Calculator",
             url: "/health/army-body-fat-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Calorie Calculator",
             url: "/health/calorie-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Health Weight Calculator",
             url: "/health/healthy-weight-calculator",
-            status: true,
+            status: false,
         },
         {
             name: "Calories Burned Calculator",
             url: "/health/calories-burned-calculator",
-            status: true,
+            status: false,
         },
        ],
        units : [
