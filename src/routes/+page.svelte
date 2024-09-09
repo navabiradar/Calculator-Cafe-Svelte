@@ -3,7 +3,8 @@
 </script>
 
 <svelte:head>
-	
+	<title>All-In-One Financial Health Date Time Calculator</title>
+    <meta name="description" content="Simplify your financial planning. Explore our range of online calculators and gain insights into your spending habits. Take the first step to financial fitness!">
 </svelte:head>
 
 <section>
